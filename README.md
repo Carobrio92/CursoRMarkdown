@@ -19,10 +19,16 @@ Esta **palabra** esta en negrita.Esta es otra forma de poner **negrita**
 
 La ***cursiva***, en cambio, es con solo asterisco
 
-Necesito tres ***asteriscos para que este en negrita y cursiva a la vez***![ecologico](Imagen/ecologico.png)
+Necesito tres ***asteriscos para que este en negrita y cursiva a la vez***
 
 ![](imagen/LORO1.jpg)\
-![](imagen/ecologico.png)\
+ \
+![ecologico](Imagen/ecologico.png)
+
 La pagina web de New Dimensions en <https://newdimensions.academy/> 
 
 Tambien pueden ingresar haciendo click[aqui](https://newdimensions.academy/)
+
+**Titulo**\
+**Subtitulo**\
+**Sub-subtitulo**
